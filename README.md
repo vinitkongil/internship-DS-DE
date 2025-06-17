@@ -1,1 +1,1 @@
-# DataScience-Internship-June2025
+internship-DS-DE
